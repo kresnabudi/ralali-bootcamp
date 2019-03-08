@@ -8,7 +8,5 @@
 8
 @extends('master')
 @section('content')
-  Lorem ipsum dolor sit amet
-@endsection
-=======
+  Babang tamvan
 @endsection
