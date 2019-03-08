@@ -9,4 +9,5 @@
 @extends('master')
 @section('content')
   Awesome Pages
+  echo "hello";
 @endsection
