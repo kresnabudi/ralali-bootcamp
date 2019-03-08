@@ -8,11 +8,8 @@
 8
 @extends('master')
 @section('content')
-<<<<<<< HEAD
-  select * from blabala
-@endsection
-=======
   select * from blabala
   echo "hello";
+  echo "hellohellohello";
 @endsection
->>>>>>> IA-004
+
