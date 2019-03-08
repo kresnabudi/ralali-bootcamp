@@ -8,5 +8,5 @@
 8
 @extends('master')
 @section('content')
-  Index page
+  Awesome Pages
 @endsection
