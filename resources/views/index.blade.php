@@ -1,4 +1,4 @@
 @extends('master')
 @section('content')
-  Lorem ipsum dolor sit amet
+  NARUTOOOOOOOO
 @endsection
