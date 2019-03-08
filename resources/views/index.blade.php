@@ -1,4 +1,4 @@
 @extends('master')
 @section('content')
-  Index page
+  echo "HELLO 2";
 @endsection
