@@ -1,8 +1,5 @@
 @extends('master')
 @section('content')
-  Index page
-@endsection
-asdasdasdasd
-asdasdasdasdasda
-asdasd
 
+  Index pageasdasd
+@endsection
