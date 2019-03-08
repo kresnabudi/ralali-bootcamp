@@ -1,4 +1,4 @@
 @extends('master')
 @section('content')
-  Index page
+  Home Page
 @endsection
