@@ -8,7 +8,6 @@
 8
 @extends('master')
 @section('content')
- HEAD
   Babang tamvan
 @endsection
 
