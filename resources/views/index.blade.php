@@ -8,6 +8,6 @@
 8
 @extends('master')
 @section('content')
-  Babang tamvan
+  Greg tamvan
 @endsection
 
