@@ -8,7 +8,8 @@
 8
 @extends('master')
 @section('content')
+<<<<<<< HEAD
   Lorem ipsum dolor sit amet
-@endsection
-=======
+  Awesome Pages
+  echo "hello";
 @endsection
