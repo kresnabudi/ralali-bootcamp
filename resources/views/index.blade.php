@@ -1,4 +1,4 @@
 @extends('master')
 @section('content')
-  Index page
+  Lorem ipsum dolor sit amet
 @endsection
