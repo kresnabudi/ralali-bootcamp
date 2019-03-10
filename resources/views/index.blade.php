@@ -11,5 +11,6 @@
   select * from blabala
   echo "hello";
   echo "hellohellohello";
+  echo "tes lagi ya"
 @endsection
 
